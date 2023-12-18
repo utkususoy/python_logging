@@ -1,0 +1,27 @@
+12/16/2023 10:54:03 PM - __main__ - INFO - module_1 - module_1_main - None - Module 1 - Info message
+12/16/2023 10:54:03 PM - root - INFO - module_2 - module_2_main - None - Module 2 - Info message
+12/16/2023 10:54:03 PM - root - INFO - module_1_1 - module_1_1_print - None - Module 1.1 - Info message
+12/16/2023 10:54:03 PM - root - INFO - module_1_1 - module_1_1_print - None - Module 1.1 - Info message
+12/16/2023 10:54:03 PM - root - ERROR - module_1_1 - module_1_1_print - (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x0000029741BACB00>) - can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "c:\Users\utkus\Desktop\Working_Environment\PythonLogging\module_1_1.py", line 7, in module_1_1_print
+    data = "5" + data
+TypeError: can only concatenate str (not "int") to str
+12/16/2023 10:55:19 PM - __main__ - INFO - module_1 - module_1_main - None - Module 1 - Info message
+12/16/2023 10:55:19 PM - root - INFO - module_2 - module_2_main - None - Module 2 - Info message
+12/16/2023 10:55:19 PM - root - INFO - module_1_1 - module_1_1_print - None - Module 1.1 - Info message
+12/16/2023 10:55:19 PM - root - INFO - module_1_1 - module_1_1_print - None - Module 1.1 - Info message
+12/16/2023 10:55:19 PM - root - ERROR - module_1_1 - module_1_1_print - (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x000001C378F6F880>) - can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "c:\Users\utkus\Desktop\Working_Environment\PythonLogging\module_1_1.py", line 7, in module_1_1_print
+    data = "5" + data
+TypeError: can only concatenate str (not "int") to str
+12/16/2023 10:57:12 PM - INFO - module_1 - module_1_main - None - Module 1 - Info message
+12/16/2023 10:57:12 PM - INFO - module_2 - module_2_main - None - Module 2 - Info message
+12/16/2023 10:57:12 PM - INFO - module_1_1 - module_1_1_print - None - Module 1.1 - Info message
+12/16/2023 10:57:12 PM - INFO - module_1_1 - module_1_1_print - None - Module 1.1 - Info message
+12/16/2023 10:57:12 PM - ERROR - module_1_1 - module_1_1_print - (<class 'TypeError'>, TypeError('can only concatenate str (not "int") to str'), <traceback object at 0x00000240D9B30180>) - can only concatenate str (not "int") to str
+Traceback (most recent call last):
+  File "c:\Users\utkus\Desktop\Working_Environment\PythonLogging\module_1_1.py", line 7, in module_1_1_print
+    data = "5" + data
+TypeError: can only concatenate str (not "int") to str
